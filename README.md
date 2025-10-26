@@ -33,7 +33,7 @@ JavaScript (ES6)
 
 Clone this repository:
 
-git clone https://github.com/your-username/gym-website-v2.git
+git clone https://github.com/Wissem-Benkhaled/gym-website-v2.git
 
 Open the folder:
 
