@@ -29,20 +29,6 @@ JavaScript (ES6)
 
 <img width="1883" height="918" alt="GYM2" src="https://github.com/user-attachments/assets/5246784a-7ab7-420f-8153-cfc53b739991" />
 
-⚙️ Installation & Setup
-
-Clone this repository:
-
-git clone https://github.com/Wissem-Benkhaled/gym-website-v2.git
-
-Open the folder:
-
-cd gym-website-v2
-
-
-Run the project:
-Simply open index.html in your browser.
-
 ✨ Future Improvements
 
 Add a contact form with backend integration
