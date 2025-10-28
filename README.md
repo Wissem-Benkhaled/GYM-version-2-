@@ -3,6 +3,8 @@
 A modern and responsive Gym Website built using HTML, CSS, and JavaScript.
 This version features improved design, animations, and mobile optimization to create an engaging user experience.
 
+---
+
 🚀 Features
 
 💪 Clean and modern UI design
@@ -17,6 +19,8 @@ This version features improved design, animations, and mobile optimization to cr
 
 📅 Membership plans showcase
 
+---
+
 🛠️ Technologies Used
 
 HTML5
@@ -25,9 +29,13 @@ CSS3 (Flexbox, Grid, Animations)
 
 JavaScript (ES6)
 
+---
+
 📷 Preview
 
 <img width="1883" height="918" alt="GYM2" src="https://github.com/user-attachments/assets/5246784a-7ab7-420f-8153-cfc53b739991" />
+
+---
 
 ✨ Future Improvements
 
@@ -37,6 +45,15 @@ Include a blog or fitness tips section
 
 Improve SEO optimization
 
-🧑‍💻 Author
+---
 
-Wissem Benkhaled
+## 🧑‍💻 Author
+
+**Wissem Benkhaled**
+
+💌 **Email:** [wissembenkhaled85@gmail.com](mailto:wissembenkhaled85@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/wissem-benkhaled](https://www.linkedin.com/in/wissem-benkhaled/)  
+🐙 **GitHub:** [github.com/Wissem-Benkhaled](https://github.com/Wissem-Benkhaled)  
+🌐 **Portfolio:** [wissembenkhaled.netlify.app](https://wissembenkhaled.netlify.app/)
+
+---
